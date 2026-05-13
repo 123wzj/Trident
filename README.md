@@ -1,6 +1,6 @@
 # Trident
 
-Trident is a research-oriented APT attribution pipeline. It extracts CTI evidence, builds a Neo4j knowledge graph, exports graph and sequence data, and trains a dual-branch model that combines IOC graph evidence with TTP sequence evidence.
+Trident is a research-oriented APT attribution pipeline. It extracts CTI evidence, builds a Neo4j knowledge graph, exports graph and sequence data, trains a dual-branch model that combines IOC graph evidence with TTP sequence evidence, and supports incremental graph updates with replay-based training experiments.
 
 ## Project Structure
 
