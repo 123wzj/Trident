@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local configuration
+.env
+*.env
+
+# Generated data and model outputs
+output/
+outputs/
+/dataset/
+*.pt
+*.pth
+*.pkl
+*.pickle
+*.csv
+*.jsonl
+
+# Logs and checkpoints
+logs/
+checkpoints/
+runs/
+*.log
